@@ -1,6 +1,6 @@
 # Dungeon-Escape-Text-Version
 ## Description
-A Test-based RPG made in C++
+A Text-based RPG made in C++
 
 *Currently converting project to Unity*
 
